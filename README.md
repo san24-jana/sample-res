@@ -1,2 +1,3 @@
-# sample-res
-repository with 2 sample txt files
+
+this is text file 1
+this isntext file 2
